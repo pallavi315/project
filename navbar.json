@@ -1,0 +1,41 @@
+
+{
+  "menu":[
+    {
+      "title":"Home",
+      "link":"/"
+    },
+    {
+      "title":"About",
+      "link":"/about"
+    },
+    {
+      "title":"Courses",
+      "link":"/courses",
+      "submenu":[
+        {
+          "title":"My couses",
+          "link":"/courses/my courses"
+        },
+        {
+          "title":"All couses",
+          "link":"/courses/all courses"
+        }
+      ]
+    },
+    {
+      "title":"Contact Us",
+      "link":"/contact"
+    },
+    {
+      "title":"Services",
+      "link":"/service",
+      "submenu":[
+        {
+          "title":"service",
+          "link":"/service"
+        }
+      ]
+    }
+  ]
+}
