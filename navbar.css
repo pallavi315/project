@@ -1,0 +1,25 @@
+
+  .navbar {
+    background-color: #f8f9fa;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .navbar .nav-link {
+    font-size: 1.1rem;
+    margin-right: 15px;
+  }
+  
+  .navbar .nav-link:hover {
+    background-color: #e9ecef;
+  }
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1000; /* Ensures it stays above other content */
+  }
